@@ -1,0 +1,11 @@
+{"level":"info","message":"Server running on port 3000","timestamp":"2024-11-19T17:00:09.104Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-11-19T17:00:09.125Z"}
+{"level":"info","message":"Received POST request on /api/users/sigup","timestamp":"2024-11-19T17:00:27.921Z"}
+{"$__":{"$versionError":null,"activePaths":{"paths":{"email":"require","name":"require","password":"require"},"states":{"default":{},"modify":{},"require":{"email":true,"name":true,"password":true}}},"backup":{"activePaths":{"default":{"_id":true},"modify":{"email":true,"name":true,"password":true}},"validationError":null},"cachedRequired":{},"inserting":true,"op":null,"saveOptions":null,"savedState":{},"saving":null,"validating":null},"$isNew":false,"_doc":{"__v":0,"_id":"673cc42b4d8aea4664d44a48","email":"satish@gmail.com","name":"Satish","password":"password123"},"level":"info","message":"User created:","timestamp":"2024-11-19T17:00:27.937Z"}
+{"level":"info","message":"Received GET request on /api/users/get/all","timestamp":"2024-11-19T17:01:37.040Z"}
+{"level":"info","message":"Fetched all users","timestamp":"2024-11-19T17:01:37.053Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2024-11-20T03:47:34.718Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-11-20T03:47:34.872Z"}
+{"level":"info","message":"Server running on port 3000","timestamp":"2024-11-20T03:48:09.052Z"}
+{"level":"info","message":"Connected to MongoDB","timestamp":"2024-11-20T03:48:09.099Z"}
+{"level":"info","message":"Received POST request on /api/users/sigup","timestamp":"2024-11-20T03:48:23.466Z"}
